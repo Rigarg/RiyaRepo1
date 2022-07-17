@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T22:43:07 IST" name="Suite" finished-at="2022-06-08T22:43:07 IST" duration-ms="99">
+    <groups>
+      <group name="integeration">
+        <method signature="groups.Test4()[pri:0, instance:Pack_01.groups@152aa092]" name="Test4" class="Pack_01.groups"/>
+      </group> <!-- integeration -->
+    </groups>
+    <test started-at="2022-06-08T22:43:07 IST" name="Test" finished-at="2022-06-08T22:43:07 IST" duration-ms="99">
+      <class name="Pack_01.groups">
+        <test-method signature="Test4()[pri:0, instance:Pack_01.groups@152aa092]" started-at="2022-06-08T22:43:07 IST" name="Test4" finished-at="2022-06-08T22:43:07 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- Pack_01.groups -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
