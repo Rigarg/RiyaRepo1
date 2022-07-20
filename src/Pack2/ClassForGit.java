@@ -8,6 +8,7 @@ public class ClassForGit {
 	public void method() {
 		System.out.println("This is method 1 for GIT push");
 		System.out.println("This is method 2 for GIT push");
+		System.out.println("This is method 3 for GIT push");
 	}
 
 }
